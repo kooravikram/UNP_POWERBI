@@ -1,4 +1,5 @@
-# UNP_POWERBI
+
+# UNP_PROJECT_BI_WITH_POWERBI_DIABETES
 Completed this project as part of my Power BI internship with United Network Of Professionals(UNP).
 
 KEY HIGHLIGHTS :
